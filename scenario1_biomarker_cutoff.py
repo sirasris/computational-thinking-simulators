@@ -60,7 +60,7 @@ with st.sidebar:
     st.markdown("---")
     st.markdown("**Biomarker range**")
     x_min = st.slider("X min", -5.0, 0.0, -1.0, 0.5)
-    x_max = st.slider("X max", 10.0, 20.0, 13.0, 0.5)
+    x_max = st.slider("X max", 10.0, 25.0, 15.0, 0.5)
 
 # ── Main ────────────────────────────────────────────────────────────────────
 st.markdown("# 🔬 Diagnostic test designer")
