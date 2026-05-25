@@ -1,4 +1,4 @@
-# computational-thinking-simulators
+# Computational thinking simulators
 Various simulators of life science systems for teaching computational thinking
 
 ## Scenario 1: Finding a good cutoff for a diagnostic test
