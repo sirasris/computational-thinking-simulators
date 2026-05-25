@@ -59,7 +59,7 @@ with st.sidebar:
     sd_sick = st.slider("SD (sick)", 0.1, 3.0, 1.2, 0.1)
     st.markdown("---")
     st.markdown("**Biomarker range**")
-    x_min = st.slider("X min", 0.0, 0.0, 5.0, 0.5)
+    x_min = st.slider("X min", -5.0, 0.0, -1.0, 0.5)
     x_max = st.slider("X max", 10.0, 20.0, 13.0, 0.5)
 
 # ── Main ────────────────────────────────────────────────────────────────────
